@@ -27,7 +27,7 @@ DOS, mobile, big systems, you name it.
 Married to a [cancer survivor](https://en.wikipedia.org/wiki/Cancer_survivor).  
 As curator responsible for his brother that has an [IQ &lt; 50](https://en.wikipedia.org/wiki/Mental_retardation#IQ_below_70) *and* [autism](https://en.wikipedia.org/wiki/Autism).  
 40+ year member of world class marching band [Adest Musica](https://adestmusica.nl/).  
-Trained and <a href="http://www.race-checker.com/race/results/?searchAthlete=Jeroen+Pluimers)[performed] a few half marathons including [2013 NY](http://www.halfmarathons.net/usa_half_marathons_new_york_ny_city_half_marathon.html) and [2014 Naples, FL](http://www.napleshalfmarathon.net).  
+Trained and [performed](https://web.archive.org/web/20161022092326/http://www.race-checker.com/race/results/?searchAthlete=Jeroen+Pluimers) a few half marathons including [2013 NY](https://results.nyrr.org/event/NYCHM/result/14522) and [2014 Naples, FL](https://www.athlinks.com/event/20481/results/Event/299981/Course/429807/Bib/1548).  
   
 Twitter: [jpluimers](https://twitter.com/#!/jpluimers).  
 Blog: [wiert.me](https://wiert.me).  
