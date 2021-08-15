@@ -23,7 +23,7 @@ Specialist in .NET, Win32, x64, C#, SQL, Visual Studio and Delphi.
 Knows how to strike a balance between old and brand new technology to make things work.  
 DOS, mobile, big systems, you name it.
 
-(https://twitter.com/#!/jpluimers)[Surviving rectal cancer].  
+[Surviving rectal cancer](https://twitter.com/#!/jpluimers).  
 Married to a [cancer survivor](https://en.wikipedia.org/wiki/Cancer_survivor).  
 As curator responsible for his brother that has an [IQ &lt; 50](https://en.wikipedia.org/wiki/Mental_retardation#IQ_below_70) *and* [autism](https://en.wikipedia.org/wiki/Autism).  
 40+ year member of world class marching band [Adest Musica](https://adestmusica.nl/).  
